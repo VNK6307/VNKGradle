@@ -1,0 +1,5 @@
+rootProject.name = 'VNKGradle_v2'
+include 'db'
+include 'api'
+include 'service'
+
