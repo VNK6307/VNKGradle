@@ -1,3 +1,14 @@
 .idea
 /out
 *.iml
+/src/
+/.gradle/
+/api/bin/
+/api/build/
+/bin/
+/build/
+/db/bin/
+/db/build/
+/gradle/
+/service/bin/
+/service/build/
